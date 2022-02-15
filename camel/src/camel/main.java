@@ -12,19 +12,10 @@ public class main {
 		// TODO Auto-generated method stub
 		
 		//load.images();
-		load.gameData();
+		//load.gameData();
+		scrn Screen = new scrn();
 		
-		
+		Screen.makeScreen();
 		
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
 }

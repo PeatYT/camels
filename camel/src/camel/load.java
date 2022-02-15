@@ -90,7 +90,10 @@ public class load {
 					value.add(leftover);
 					comment.add(null);
 				}
+			} else {
+				System.out.println("  | - line presumed empty, skipping");
 			}
+
 			System.out.println();
 		}
 
