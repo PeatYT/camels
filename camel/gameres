@@ -1,0 +1,46 @@
+mqcom{
+0: incomplete
+1: incomplete
+2: incomplete
+3: incomplete
+4: incomplete
+5: incomplete
+6: incomplete
+7: incomplete
+8: incomplete
+}
+
+sqcom{
+0: incomplete //sand dealers
+1: incomplete //rug selling scheme
+2: incomplete //export truck
+3: incomplete //submarine
+}
+
+inv{
+// general stuff
+0: 0 //water
+1: 0 //food
+2: 0 //money
+
+// early-game side quests
+3: 0 //sand
+4: 0 //rugs
+5: 0 //potatoes
+6: 0 //grain
+7: 0 //carnival costume (changes look maybe?)
+
+// WWIII
+8: 0 //ammo
+9: 0 //torpedoes
+
+// Culinary Adventures
+10: 0 // cheese
+11: 0 // flour
+12: 0 // pasta
+13: 0 // milk
+14: 0 // eggs
+
+
+
+}
