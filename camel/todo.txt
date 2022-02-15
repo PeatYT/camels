@@ -1,0 +1,18 @@
+ok so things that have to be done:
+
+1, camel images (ask a friend to do that lol)
+
+2, class that deals with graphics (ask stackoverflow to do that lol)
+
+3, class that deals with time, resource, inventory stuff (i have to do this :( )
+
+3.1, class that does dialogue
+
+4, class that deals with game flow control
+
+5, class that deals with integration hell (imma have a lot of fun here)
+
+
+
+
+
