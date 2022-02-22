@@ -1,10 +1,11 @@
-ok so things that have to be done:
 
-1, friend has been asked
+!! important loading thing !!
+make the structure update in img class
+make the thing do the work
 
-2, class that deals with graphics (ask stackoverflow to do that lol)
+make a userinput class
+make a thing that deals with the other thing
 
-3, class that deals with time, resource, inventory stuff (i have to do this :( )
 
 3.1, class that does dialogue (strain another friendship)
 
@@ -12,7 +13,28 @@ ok so things that have to be done:
 
 5, class that deals with integration hell (imma have a lot of fun here)
 
+tie loading directly to images class
+
+do the swing text stuff
+^^
+i dislike this a lot, but imma do it anyways
+
+finish IMG and loading class so that the countries are arrays too (i regret this)
+^^
+yeah this sucks
+
+drink more tea
 
 
 
+
+
+
+follow-ups:
+ask about images
+get mic for audio for the YT vid (you know who I'm talking about)
+screen size should be flexible, camels centered in frame
+
+this hurts a lot
+i dont know why im doing this
 

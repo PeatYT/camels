@@ -2,17 +2,34 @@ package camel;
 
 public class flowyBoi {
 	
-	int level=-1;
-	int sublvl=0;
+	public static int level=-1;
+	public static int sublvl=0;
 	
-	boolean sidequest=false;
+	public static boolean sidequest=false;
 	
-	double levelcompletion=0.0;
+	public double levelcompletion=0.0;
 	
-	
-	
-	
-	
+	public static void gameFlowControl() {
+		switch(level) {
+		case 0:
+			if(!sidequest) {
+				main.cp.imgQueue.add(img.bkg[0][0]);
+				main.cp.imgQueue.add(img.cml[0][0]);
+				
+			}
+			break;
+		case 1:
+			break;
+		case 2:
+			break;
+		case 3:
+			break;
+		case 4:
+			break;
+		case 5:
+			break;
+		}
+	}
 	
 	//l0							TUTORIAL
 	//l1								|
